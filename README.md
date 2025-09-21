@@ -1,4 +1,4 @@
-# Lista de Exercícios 1 - Python BRAPROB
+# Desafios Python - Jupyter
 
 ## Descrição
 Este repositório contém as soluções para a Lista de Exercícios 1 da disciplina de Programação Orientada a Objetos (POO) do IFSP, desenvolvidas em Python utilizando Jupyter Notebooks.
@@ -6,7 +6,6 @@ Este repositório contém as soluções para a Lista de Exercícios 1 da discipl
 **Autor:** Victor Lis Bronzo  
 **Professor:** César A. S. Lima, Dr.  
 **Turma:** B  
-**Valor:** 10 pontos
 
 ## Estrutura do Projeto
 
