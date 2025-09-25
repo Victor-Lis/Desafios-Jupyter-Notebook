@@ -11,25 +11,25 @@ Este repositório contém as soluções para a Lista de Exercícios 1 da discipl
 
 O projeto está organizado em 19 exercícios individuais, cada um em seu próprio notebook Jupyter:
 
-- [`exercicio1.ipynb`](exercicio1.ipynb) - Conversão de metros para milímetros
-- [`exercicio2.ipynb`](exercicio2.ipynb) - Conversão de tempo para segundos totais
-- [`exercicio3.ipynb`](exercicio3.ipynb) - Cálculo de aumento salarial
-- [`exercicio4.ipynb`](exercicio4.ipynb) - Cálculo de desconto em mercadorias
-- [`exercicio5.ipynb`](exercicio5.ipynb) - Cálculo de tempo de viagem
-- [`exercicio6.ipynb`](exercicio6.ipynb) - Cálculo de preço de aluguel de carro
-- [`exercicio7.ipynb`](exercicio7.ipynb) - Cálculo de redução de vida por cigarro
-- [`exercicio8.ipynb`](exercicio8.ipynb) - Encontrar maior e menor entre três números
-- [`exercicio9.ipynb`](exercicio9.ipynb) - Cálculo de aumento salarial com condições
-- [`exercicio10.ipynb`](exercicio10.ipynb) - Cálculo de preço de passagem por distância
-- [`exercicio11.ipynb`](exercicio11.ipynb) - Contagem regressiva de foguete
-- [`exercicio12.ipynb`](exercicio12.ipynb) - Divisão inteira usando apenas soma e subtração
-- [`exercicio13.ipynb`](exercicio13.ipynb) - Simulação de poupança com juros compostos
-- [`exercicio14.ipynb`](exercicio14.ipynb) - Cálculo de quitação de dívida
-- [`exercicio15.ipynb`](exercicio15.ipynb) - Comparação de crescimento populacional
-- [`exercicio16.ipynb`](exercicio16.ipynb) - Sistema de comissões de vendedores
-- [`exercicio17.ipynb`](exercicio17.ipynb) - Comparativo de consumo de combustível
-- [`exercicio18.ipynb`](exercicio18.ipynb) - Análise de vendas de e-commerce
-- [`exercicio19.ipynb`](exercicio19.ipynb) - Sistema de monitoramento de CO2
+- [`exercicio1.ipynb`](Atividade%20%2827-09-2025%29/exercicio1.ipynb) - Conversão de metros para milímetros
+- [`exercicio2.ipynb`](Atividade%20%2827-09-2025%29/exercicio2.ipynb) - Conversão de tempo para segundos totais
+- [`exercicio3.ipynb`](Atividade%20%2827-09-2025%29/exercicio3.ipynb) - Cálculo de aumento salarial
+- [`exercicio4.ipynb`](Atividade%20%2827-09-2025%29/exercicio4.ipynb) - Cálculo de desconto em mercadorias
+- [`exercicio5.ipynb`](Atividade%20%2827-09-2025%29/exercicio5.ipynb) - Cálculo de tempo de viagem
+- [`exercicio6.ipynb`](Atividade%20%2827-09-2025%29/exercicio6.ipynb) - Cálculo de preço de aluguel de carro
+- [`exercicio7.ipynb`](Atividade%20%2827-09-2025%29/exercicio7.ipynb) - Cálculo de redução de vida por cigarro
+- [`exercicio8.ipynb`](Atividade%20%2827-09-2025%29/exercicio8.ipynb) - Encontrar maior e menor entre três números
+- [`exercicio9.ipynb`](Atividade%20%2827-09-2025%29/exercicio9.ipynb) - Cálculo de aumento salarial com condições
+- [`exercicio10.ipynb`](Atividade%20%2827-09-2025%29/exercicio10.ipynb) - Cálculo de preço de passagem por distância
+- [`exercicio11.ipynb`](Atividade%20%2827-09-2025%29/exercicio11.ipynb) - Contagem regressiva de foguete
+- [`exercicio12.ipynb`](Atividade%20%2827-09-2025%29/exercicio12.ipynb) - Divisão inteira usando apenas soma e subtração
+- [`exercicio13.ipynb`](Atividade%20%2827-09-2025%29/exercicio13.ipynb) - Simulação de poupança com juros compostos
+- [`exercicio14.ipynb`](Atividade%20%2827-09-2025%29/exercicio14.ipynb) - Cálculo de quitação de dívida
+- [`exercicio15.ipynb`](Atividade%20%2827-09-2025%29/exercicio15.ipynb) - Comparação de crescimento populacional
+- [`exercicio16.ipynb`](Atividade%20%2827-09-2025%29/exercicio16.ipynb) - Sistema de comissões de vendedores
+- [`exercicio17.ipynb`](Atividade%20%2827-09-2025%29/exercicio17.ipynb) - Comparativo de consumo de combustível
+- [`exercicio18.ipynb`](Atividade%20%2827-09-2025%29/exercicio18.ipynb) - Análise de vendas de e-commerce
+- [`exercicio19.ipynb`](Atividade%20%2827-09-2025%29/exercicio19.ipynb) - Sistema de monitoramento de CO2
 
 ## Tecnologias Utilizadas
 
