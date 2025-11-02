@@ -1,23 +1,33 @@
-from classes.produto import Produto
+from classes.estoque import Estoque
 
 def main():
-    # Criando uma instância de Produto
-    produto = Produto("Caneta", 2.50, 100)
+    estoque = Estoque()
 
-    # Exibindo os atributos do produto
-    print(f"Produto: {produto.nome}")
-    print(f"Preço: R$ {produto.preco:.2f}")
-    print(f"Quantidade em estoque: {produto.quantidade}")
+    while True:
+        print("\nControle de Estoque")
+        print("1. Adicionar Produto")
+        print("2. Remover Produto")
+        print("3. Listar Produtos")
+        print("4. Sair")
 
-    # Modificando os atributos do produto
-    produto.preco = 3.00
-    produto.quantidade = 150
+        escolha = input("Escolha uma opção: ")
 
-    # Exibindo os atributos atualizados do produto
-    print("\nApós atualização:")
-    print(f"Produto: {produto.nome}")
-    print(f"Preço: R$ {produto.preco:.2f}")
-    print(f"Quantidade em estoque: {produto.quantidade}")
-    
-if __name__ == "__main__":
-    main()
+        if escolha == '1':
+            estoque.adicionar_produto()
+
+        elif escolha == '2':
+            nome = input("Nome do produto: ")
+            quantidade = int(input("Quantidade: "))
+            estoque.remover_produto(nome, quantidade)
+
+        elif escolha == '3':
+            estoque.listar_produtos()
+
+        elif escolha == '4':
+            print("Saindo do sistema de controle de estoque.")
+            break
+        
+        else:
+            print("Opção inválida. Tente novamente.")
+            
+main()

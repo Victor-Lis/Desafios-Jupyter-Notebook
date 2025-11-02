@@ -57,6 +57,6 @@ class Produto:
         return (
             f"Produto: {self.nome}\n"
             f"Preço: R$ {self.preco:,.2f}\n"
-            f"Quantidade: {self.quantidade} {'unidade' if self.quantidade == 1 else 'unidades'}\n"
+            f"Quantidade: {self.quantidade} {'un' if self.quantidade == 1 else 'un(s)'}\n"
             f"Valor total: R$ {self.preco * self.quantidade:,.2f}"
         )
