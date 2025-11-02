@@ -16,9 +16,7 @@ def main():
             estoque.adicionar_produto()
 
         elif escolha == '2':
-            nome = input("Nome do produto: ")
-            quantidade = int(input("Quantidade: "))
-            estoque.remover_produto(nome, quantidade)
+            estoque.remover_produto()
 
         elif escolha == '3':
             estoque.listar_produtos()
